@@ -1,0 +1,6 @@
+{
+  "name": "Coffee Shop Story",
+  "description": "Cozy 3D simulation and management game where you run your own coffee shop, brew custom orders, serve customers, and upgrade your cafe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
